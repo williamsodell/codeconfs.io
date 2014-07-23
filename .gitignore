@@ -10,3 +10,6 @@ vendor/*
 
 *.sublime-project
 *.sublime-workspace
+.vagrant
+puphpet
+Vagrantfile
